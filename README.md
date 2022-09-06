@@ -8,3 +8,6 @@ Conceituação e tipos de Variaveis.
 Tomada de decisão com IF.
 
 Decisões encadeadas.
+
+
+Aulas acompanhadas no XP esducação
